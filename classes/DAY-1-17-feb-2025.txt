@@ -1,0 +1,47 @@
+Data Analytics/Business Intelligence
+Gartner
+Tableau
+PowerBI
+
+Connectors
+
+1. Business Requirements
+2. Users/Roles
+3. Collect data from different sources
+sql,no sql,excel,pdf,csv,third party
+systems
+4.Transformation
+5.Data Model
+
+Sign Up - User
+Search products - Product
+Suppliers - 
+Order
+Invoice
+6. Reports
+KPI
+7. Dashboard
+8. Publish - cloud
+9. Maintain/Changes
+
+Top 10 economies in the world
+a. top 10 economies in the world in a tabular format
+b. https://www.forbesindia.com/article/explainers/top-10-largest-economies-in-the-world/86159/1
+c. convert forbes india gdp data in a table
+d. Include columns like 
+Rank & Country	GDP (USD)	2025 Projected Real GDP (% Change)	GDP Per Capita (Current Prices) (USD)
+e.convert it into csv for me to download
+
+Steps
+1. Open power bi desktop
+2. Blank Report
+3. Get Data - text/csv
+
+
+
+
+
+
+
+
+

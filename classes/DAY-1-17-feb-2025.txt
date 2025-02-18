@@ -37,6 +37,47 @@ Steps
 2. Blank Report
 3. Get Data - text/csv
 
+https://app.powerbi.com/
+Sign up and login
+save the report/dashboard
+publish
+My Workspace
+
+mobile
+Microsoft Power bi app
+
+Course Material
+
+www.kaushalya.tech
+click on git
+repositories
+powerbi_feb_2025
+
+2. Chocolate Sales Analysis
+Data - 2-sample-chocolate-sales-data-1
+Create following reports
+1. Total Sales
+2. Total Boxes
+3. Bar chart of Product (top 10),Amount
+4. Quarterly sales 
+
+Measure
+Excel calculation
+
+total_amt=sum(amount)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

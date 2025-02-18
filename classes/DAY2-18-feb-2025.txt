@@ -1,0 +1,28 @@
+Recap
+Power BI- Business Intelligence
+Data Analytics
+Components
+Suite of tools
+Power BI Desktop
+Publish - app.powerbi.com
+Account
+Power BI app
+1. Top10 economies in the world
+2025
+2. Data Processing/Data Transformation
+create following measures
+average gdp
+average per capita
+count of countries
+www.kaushalya.tech
+
+Use case of ecommerce
+Madhav Store E-commerce
+
+
+
+
+
+
+
+

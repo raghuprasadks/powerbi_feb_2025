@@ -18,7 +18,13 @@ www.kaushalya.tech
 
 Use case of ecommerce
 Madhav Store E-commerce
+Mini project on EV Data Analysis
+git
+data/EV
 
+BEV Vehicles = CALCULATE(COUNT(Data[DOL Vehicle ID]), Data[Electric Vehicle Type] = "Battery Electric Vehicle (BEV)")
+
+BEV % = CALCULATE(COUNT(Data[DOL Vehicle ID]), Data[Electric Vehicle Type] = "Battery Electric Vehicle (BEV)") / COUNT(Data[DOL Vehicle ID])
 
 
 

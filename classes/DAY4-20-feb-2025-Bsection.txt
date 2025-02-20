@@ -1,0 +1,60 @@
+Recap
+1. Data Analytics
+2. Business Intelligence
+3. Data Science
+4. Data Sources
+CSV,Excel,
+5. Tools
+Gartner
+Power BI,Tableau 
+Power BI - Suite of tools
+Power BI Desktop - create report/dashboard
+publish them to cloud service
+app.powerbi.com
+download app
+Steps in creating dashboard
+1. Business requirement
+KPI - Key Performance Indicators
+Visuals
+Business insight we try to get
+2. Data
+3. Transform the data/Data modelling
+4. Identifying the types of visuals
+5. Dashboard
+6. Filters/Slicers
+7. Test
+8. Publish to cloud
+
+
+Agenda for today
+1. Creating measures
+Calculated value
+2. DAX - Data Analysis eXpression
+built-in functions
+sum
+average
+max
+min
+calculate
+3. Design/Layout
+power point
+4. 2 to 3 use cases
+ecommerce, EV
+app.powerbi.com
+
+kaushalya.tech
+git
+repositories
+5. Download
+power bi application file
+https://github.com/raghuprasadks/powerbi_feb_2025/blob/main/programs/4-powerbi-chacolate.pbix
+data file
+https://github.com/raghuprasadks/powerbi_feb_2025/blob/main/data/4-sample-chocolate-sales-data-all.xlsx
+measure - calculator symbol
+
+Total Amount = SUM(shipments[Amount]) 
+
+
+Datasets
+Kaggle
+Kaggle corona dataset

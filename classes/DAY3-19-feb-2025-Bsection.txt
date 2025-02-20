@@ -1,0 +1,73 @@
+Data Analytics
+Business Intelligence
+Data Science
+Tools
+Power BI - Microsoft
+Tableau - Sales Force
+Gartner
+kaushalya.tech
+git
+repositories
+powerbi_feb_2025
+
+Hands-on session
+1. Top10 economies in the world
+
+a. graph of country vs % Real GDP growth
+bar chart
+
+cloud
+
+app.powerbi.com
+create an account
+using your college
+mail id
+
+download Microsoft power bi mobile app
+
+2. Chocolate Data Analysis
+Download 
+https://github.com/raghuprasadks/powerbi_feb_2025/blob/main/data/2-sample-chocolate-sales-data-1.xlsx
+Crate new project
+ChocolateDataAnalysis
+a. Create following dashboard
+
+I - Bar chart of Country vs sum of amount
+display top 3 countries by the sales amount
+2. Table chart of Sales person vs Sum of amount
+3. Bar chart Year and Quarter wise Total Sales
+
+Hands-on-session 3 
+Create - 3-ExploreDataModel.pbix file
+Download and import 
+https://github.com/raghuprasadks/powerbi_feb_2025/blob/main/data/4-sample-chocolate-sales-data-all.xlsx
+
+Ecommerce
+Amazon
+
+Sign Up
+User
+
+Card view - Key Performance Indicators (KPI)
+shipments by sales person
+
+Download
+programs/4-powerbi-chacolate.pbix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

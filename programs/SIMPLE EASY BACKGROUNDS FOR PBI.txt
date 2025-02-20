@@ -1,0 +1,36 @@
+SIMPLE EASY BACKGROUNDS FOR POWER BI WITH POWERPOINT
+
+Canvas Size Power BI Report:
+1 pixel (X) = 0.0264583333 cm
+	Height: 936 px - 9.75 in-24.76 cm 
+	Width: 1664 px - 17.33 in - 44.02
+
+
+
+Background
+	HEX Code:#D2D2D2
+
+Rectangular Shape (Left Side)
+	HEX Code (Green): #0F8658
+      HEX Code (Black): #262626 - no outline
+      Height: 9.48"
+	Width: 3.57"
+
+Rectangular Shape (Canvas)
+	HEX Code: #D9D9D9
+	Height: 9.48"
+	Width: 14.95"
+
+Small Top Shapes (6)
+	Height: 2"
+	Width: 2"
+align horizontally,middle
+
+Big Rectangular Shapes (2)
+	Height: 6.22"
+	Width: 4.46"
+
+Big Rectangular Shapes (2)
+	Height: 3"
+	Width: 4.46"
+

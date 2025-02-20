@@ -58,9 +58,9 @@ Total Amount = SUM(shipments[Amount])
 Datasets
 Kaggle
 Kaggle corona dataset
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report?select=country_wise_latest.csv
 
 Assignment - Corona Dashboard
-
 Steps
 1. Download https://github.com/raghuprasadks/powerbi_feb_2025/blob/main/data/corona_dataset.csv
 2. create coronadataanalysis.pbix power bi program
@@ -77,6 +77,7 @@ by using a pie chart
 3. Create a table of bottom 5 countries
 with following fields
 Country/Region,Confirmed,Deaths,Recovered,Active
+in terms of Active Cases
 4. Create a dashboard to display following kpi
 (cards/new card graph)
 1. Total Confirmed cases for all countries
@@ -86,8 +87,8 @@ Country/Region,Confirmed,Deaths,Recovered,Active
 add country as a slicer
 also display above 3 reports in the dashboard
 
-
-
+New Column
+Death Rate = (coronadatasetnew[Deaths]/coronadatasetnew[Confirmed])*100 
 
 
 

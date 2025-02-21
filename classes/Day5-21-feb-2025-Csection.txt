@@ -1,0 +1,130 @@
+Agenda:
+1. Introduction to Data Analytics and business
+intelligence
+2. Industry leader softwares in DA and BI
+Gartner
+3. Introduction to Power BI
+4. Components of Power BI
+5. Work flow
+
+a. Business requirement
+
+KPI - Key Performance Indicators
+Various reports
+Interactive
+b. Collect data from different data sources
+c. Load data to tool
+d. Transform the data (ETL)
+e. Design 
+f. Create reports/dashboard
+g. Publish
+h. Manage
+
+
+5. Getting started with power bi
+6. Hands-on session 
+
+kaushalya.tech
+
+click on git
+click on repositories
+
+top10 economies
+1. Draw a bar chart of country vs gdp
+2. Stacked bar chart of country vs per capita
+3. pie chart of Projected Real GDP
+use country as legends
+
+app.powerbi.com
+sign up with college mail id
+login 
+
+publish from powerbi desktop
+
+download power bi app from playstore
+
+2. Chocolate Data Analysis
+create 2-chocolatedataanalysis.pbix
+
+Date fields
+
+Data
+Download https://github.com/raghuprasadks/powerbi_feb_2025/blob/main/data/2-sample-chocolate-sales-data-1.xlsx
+
+Display following KPI - Key performance indicators
+1. Total Sales - visual - card
+2. Total Boxes - visual - card
+Create following reports
+1. Year and Quarter wise sales - bar chart
+2. Sales by Sales Person - bar chart
+3. Product wise sales - table
+
+analyse increase or decrease
+
+
+3. ChocolateDataModel
+create 3-chocolatedatamodel.pbix
+
+download 4-sample-chocolate-sales-data-all
+
+upload this file
+check model view
+
+amazon
+
+sign up
+
+user model (table - user)
+user id
+email
+mobile
+name
+address
+
+
+product
+productcode
+name
+desc
+price
+packing
+
+supplier
+supplierid
+name
+address
+contact
+
+1 to many relation ship
+between
+supplier and product
+
+
+1. Barchart of product vs total amount
+
+2. Table chart to display
+Geography wise sales of different products
+
+3. Display top 3 products in terms of sales as a barchart
+4. Display bottom 3 products in terms of sales as a barchart
+
+4. Card New 
+Total Sales - sum(amount)
+Total Shipments - distinct count(shipmentid)
+Total Boxes - sum(boxes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
